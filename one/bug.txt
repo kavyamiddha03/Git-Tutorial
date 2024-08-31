@@ -1,0 +1,3 @@
+this is a bug fix file on bug fix branch 
+
+another bug fixed
